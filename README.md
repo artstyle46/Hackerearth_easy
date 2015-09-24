@@ -4,4 +4,4 @@ As i will be adding the codes i will be upadating the problem name with link to 
 
 List of Problems:-
 
-1.ex1 :- link
+2.Number of R's :- https://www.hackerearth.com/tracks/pledge-2015-easy/number-of-rs-1/
