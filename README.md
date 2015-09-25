@@ -10,3 +10,4 @@ List of Problems:-
 
 4.Dhoom 4 :- https://www.hackerearth.com/tracks/pledge-2015-easy/dhoom-4/
 
+8. Ladder Problem :- https://www.hackerearth.com/tracks/pledge-2015-easy/ladder-ride-1/
